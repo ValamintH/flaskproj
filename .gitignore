@@ -1,0 +1,8 @@
+.idea/
+venv/
+app/__pycache__/
+app/auth/__pycache__/
+app/errors/__pycache__/
+app/main/__pycache__/
+migrations/__pycache__/
+__pycache__/
